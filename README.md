@@ -190,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dishagoel1804/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Dishagoel1804/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
