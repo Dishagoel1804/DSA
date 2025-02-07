@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dishagoel1804/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dishagoel1804/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/Dishagoel1804/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dishagoel1804/DSA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dishagoel1804/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dishagoel1804/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dishagoel1804/DSA/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/Dishagoel1804/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Dishagoel1804/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Dishagoel1804/DSA/tree/master/1036-rotting-oranges) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dishagoel1804/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dishagoel1804/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Dishagoel1804/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Dishagoel1804/DSA/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
