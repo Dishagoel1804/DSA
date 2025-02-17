@@ -1,41 +1,63 @@
-import java.util.*;
-
+class Pair
+{
+    int first,second;
+    Pair(int first,int second)
+    {
+        this.first=first;
+        this.second=second;
+    }
+}
+class Tuple
+{
+    int first,second,third;
+    Tuple(int first,int second,int third)
+    {
+        this.first=first;
+        this.second=second;
+        this.third=third;
+    }
+}
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int k) {
-        // Adjacency list representation of graph
-        Map<Integer, List<int[]>> graph = new HashMap<>();
-        for (int[] flight : flights) {
-            graph.computeIfAbsent(flight[0], x -> new ArrayList<>()).add(new int[]{flight[1], flight[2]});
+        ArrayList<ArrayList<Pair>> adj=new ArrayList<>();
+        for(int i=0;i<n;i++)
+        {
+            adj.add(new ArrayList<>());
         }
-
-        // Queue for BFS (city, cost, stops)
-        Queue<int[]> queue = new LinkedList<>();
-        queue.offer(new int[]{src, 0, 0}); // Start with source
-
-        // Distance array to track min cost to reach each city within given stops
-        int[] minCost = new int[n];
-        Arrays.fill(minCost, Integer.MAX_VALUE);
-        minCost[src] = 0;
-
-        while (!queue.isEmpty()) {
-            int[] current = queue.poll();
-            int city = current[0], cost = current[1], stops = current[2];
-
-            // If we exceed allowed stops, continue
-            if (stops > k) continue;
-
-            // Explore neighbors
-            for (int[] neighbor : graph.getOrDefault(city, new ArrayList<>())) {
-                int nextCity = neighbor[0], price = neighbor[1];
-
-                // If we find a cheaper route within the allowed stops, update and enqueue
-                if (cost + price < minCost[nextCity]) {
-                    minCost[nextCity] = cost + price;
-                    queue.offer(new int[]{nextCity, cost + price, stops + 1});
-                }
+        int m=flights.length;
+        for(int i=0;i<m;i++)
+        {
+            adj.get(flights[i][0]).add(new Pair(flights[i][1],flights[i][2]));
+        }    
+        int dist[]=new int[n];
+        for(int i=0;i<n;i++)
+        {
+            dist[i]=Integer.MAX_VALUE;
+        }
+        dist[src]=0;
+        Queue<Tuple> q=new LinkedList<>();
+        q.add(new Tuple(0,src,0));
+        while(!q.isEmpty())
+        {
+            Tuple it=q.poll();
+            int stops=it.first;
+            int node=it.second;
+            int cost=it.third;
+            if(stops>k)
+            continue;
+            for(Pair iter:adj.get(node))
+            {
+               int dcost=iter.second;
+               int d=iter.first;
+               if(cost+dcost<dist[d] && stops<=k)
+               {
+                dist[d]=cost+dcost;
+                q.add(new Tuple(stops+1,d,cost+dcost));
+               } 
             }
         }
-
-        return minCost[dst] == Integer.MAX_VALUE ? -1 : minCost[dst];
+        if(dist[dst]==Integer.MAX_VALUE)
+        return -1;
+        return dist[dst];
     }
 }
