@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dishagoel1804/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Dishagoel1804/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dishagoel1804/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
 | [1753-path-with-minimum-effort](https://github.com/Dishagoel1804/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dishagoel1804/DSA/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dishagoel1804/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dishagoel1804/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Stack
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dishagoel1804/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Dishagoel1804/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dishagoel1804/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dishagoel1804/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Greedy
+|  |
+| ------- |
+| [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
 <!---LeetCode Topics End-->
