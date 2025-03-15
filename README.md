@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dishagoel1804/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Dishagoel1804/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Dishagoel1804/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dishagoel1804/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dishagoel1804/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Dishagoel1804/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Dishagoel1804/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Dishagoel1804/DSA/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Dishagoel1804/DSA/tree/master/1833-find-the-highest-altitude) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dishagoel1804/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
