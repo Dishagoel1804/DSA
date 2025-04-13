@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Dishagoel1804/DSA/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Dishagoel1804/DSA/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Dishagoel1804/DSA/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Dishagoel1804/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dishagoel1804/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Dishagoel1804/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Dishagoel1804/DSA/tree/master/0485-max-consecutive-ones) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dishagoel1804/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Dishagoel1804/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/Dishagoel1804/DSA/tree/master/0198-house-robber) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dishagoel1804/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dishagoel1804/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
