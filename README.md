@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Dishagoel1804/DSA/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/Dishagoel1804/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Dishagoel1804/DSA/tree/master/0792-binary-search) |
+| [0967-minimum-falling-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Dishagoel1804/DSA/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dishagoel1804/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Dishagoel1804/DSA/tree/master/1073-number-of-enclaves) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Dishagoel1804/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dishagoel1804/DSA/tree/master/0213-house-robber-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dishagoel1804/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0967-minimum-falling-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dishagoel1804/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Stack
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Dishagoel1804/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Dishagoel1804/DSA/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Dishagoel1804/DSA/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Dishagoel1804/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Dishagoel1804/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dishagoel1804/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
