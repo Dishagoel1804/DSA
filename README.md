@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Dishagoel1804/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dishagoel1804/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Dishagoel1804/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Dishagoel1804/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Dishagoel1804/DSA/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/Dishagoel1804/DSA/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Dishagoel1804/DSA/tree/master/0792-binary-search) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Dishagoel1804/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dishagoel1804/DSA/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Dishagoel1804/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dishagoel1804/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
