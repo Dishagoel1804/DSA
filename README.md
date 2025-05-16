@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
 | [1753-path-with-minimum-effort](https://github.com/Dishagoel1804/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1833-find-the-highest-altitude](https://github.com/Dishagoel1804/DSA/tree/master/1833-find-the-highest-altitude) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3430-count-days-without-meetings](https://github.com/Dishagoel1804/DSA/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dishagoel1804/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dishagoel1804/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dishagoel1804/DSA/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dishagoel1804/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Design
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Prefix Sum
 |  |
 | ------- |
