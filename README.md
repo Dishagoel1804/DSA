@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dishagoel1804/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dishagoel1804/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/Dishagoel1804/DSA/tree/master/1250-longest-common-subsequence) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dishagoel1804/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dishagoel1804/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dishagoel1804/DSA/tree/master/0022-generate-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dishagoel1804/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1250-longest-common-subsequence](https://github.com/Dishagoel1804/DSA/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Design
 |  |
