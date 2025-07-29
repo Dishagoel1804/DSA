@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dishagoel1804/DSA/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Dishagoel1804/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Dishagoel1804/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Dishagoel1804/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Dishagoel1804/DSA/tree/master/0063-unique-paths-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dishagoel1804/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dishagoel1804/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dishagoel1804/DSA/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Dishagoel1804/DSA/tree/master/0044-wildcard-matching) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dishagoel1804/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1250-longest-common-subsequence](https://github.com/Dishagoel1804/DSA/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dishagoel1804/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dishagoel1804/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Dishagoel1804/DSA/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/Dishagoel1804/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Dishagoel1804/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dishagoel1804/DSA/tree/master/0234-palindrome-linked-list) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Dishagoel1804/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Dishagoel1804/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Dishagoel1804/DSA/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dishagoel1804/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
