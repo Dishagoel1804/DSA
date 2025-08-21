@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dishagoel1804/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Dishagoel1804/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1833-find-the-highest-altitude](https://github.com/Dishagoel1804/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dishagoel1804/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dishagoel1804/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dishagoel1804/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Dishagoel1804/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Dishagoel1804/DSA/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dishagoel1804/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dishagoel1804/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Iterator
 |  |
 | ------- |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Dishagoel1804/DSA/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dishagoel1804/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Dishagoel1804/DSA/tree/master/1753-path-with-minimum-effort) |
 ## Math
 |  |
