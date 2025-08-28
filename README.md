@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Dishagoel1804/DSA/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dishagoel1804/DSA/tree/master/3430-count-days-without-meetings) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dishagoel1804/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Dishagoel1804/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dishagoel1804/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
 | [3321-type-of-triangle](https://github.com/Dishagoel1804/DSA/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dishagoel1804/DSA/tree/master/3430-count-days-without-meetings) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Dishagoel1804/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Dishagoel1804/DSA/tree/master/1753-path-with-minimum-effort) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dishagoel1804/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Dishagoel1804/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
