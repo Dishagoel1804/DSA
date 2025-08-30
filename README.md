@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Dishagoel1804/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dishagoel1804/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dishagoel1804/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Dishagoel1804/DSA/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dishagoel1804/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Dishagoel1804/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Dishagoel1804/DSA/tree/master/0044-wildcard-matching) |
 | [0168-excel-sheet-column-title](https://github.com/Dishagoel1804/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dishagoel1804/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0383-ransom-note](https://github.com/Dishagoel1804/DSA/tree/master/0383-ransom-note) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dishagoel1804/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Dishagoel1804/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/Dishagoel1804/DSA/tree/master/1250-longest-common-subsequence) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dishagoel1804/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Dishagoel1804/DSA/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
 ## Combinatorics
 |  |
