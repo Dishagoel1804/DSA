@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Dishagoel1804/DSA/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dishagoel1804/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Dishagoel1804/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dishagoel1804/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dishagoel1804/DSA/tree/master/0022-generate-parentheses) |
 | [0679-24-game](https://github.com/Dishagoel1804/DSA/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dishagoel1804/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Dishagoel1804/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Dishagoel1804/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/Dishagoel1804/DSA/tree/master/1448-maximum-69-number) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Dishagoel1804/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Dishagoel1804/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Dishagoel1804/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Dishagoel1804/DSA/tree/master/3321-type-of-triangle) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dishagoel1804/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Dishagoel1804/DSA/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Dishagoel1804/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dishagoel1804/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Dishagoel1804/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dishagoel1804/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Dishagoel1804/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Segment Tree
 |  |
 | ------- |
