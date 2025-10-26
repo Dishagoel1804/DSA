@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Dishagoel1804/DSA/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dishagoel1804/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Dishagoel1804/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2352-design-an-atm-machine](https://github.com/Dishagoel1804/DSA/tree/master/2352-design-an-atm-machine) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Dishagoel1804/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3321-type-of-triangle](https://github.com/Dishagoel1804/DSA/tree/master/3321-type-of-triangle) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Dishagoel1804/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dishagoel1804/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2169-simple-bank-system](https://github.com/Dishagoel1804/DSA/tree/master/2169-simple-bank-system) |
+| [2352-design-an-atm-machine](https://github.com/Dishagoel1804/DSA/tree/master/2352-design-an-atm-machine) |
 ## Sorting
 |  |
 | ------- |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dishagoel1804/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1448-maximum-69-number](https://github.com/Dishagoel1804/DSA/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
+| [2352-design-an-atm-machine](https://github.com/Dishagoel1804/DSA/tree/master/2352-design-an-atm-machine) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Prefix Sum
 |  |
