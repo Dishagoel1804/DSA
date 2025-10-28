@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Dishagoel1804/DSA/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dishagoel1804/DSA/tree/master/3430-count-days-without-meetings) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dishagoel1804/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Dishagoel1804/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Dishagoel1804/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dishagoel1804/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dishagoel1804/DSA/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Dishagoel1804/DSA/tree/master/1833-find-the-highest-altitude) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Dishagoel1804/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dishagoel1804/DSA/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishagoel1804/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Dishagoel1804/DSA/tree/master/2169-simple-bank-system) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Dishagoel1804/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dishagoel1804/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dishagoel1804/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
