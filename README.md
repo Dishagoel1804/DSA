@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dishagoel1804/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2169-simple-bank-system](https://github.com/Dishagoel1804/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dishagoel1804/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dishagoel1804/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dishagoel1804/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishagoel1804/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Dishagoel1804/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dishagoel1804/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dishagoel1804/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dishagoel1804/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Dishagoel1804/DSA/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dishagoel1804/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dishagoel1804/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dishagoel1804/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |
