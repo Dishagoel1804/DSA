@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-design-an-atm-machine](https://github.com/Dishagoel1804/DSA/tree/master/2352-design-an-atm-machine) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Dishagoel1804/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dishagoel1804/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Dishagoel1804/DSA/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dishagoel1804/DSA/tree/master/3430-count-days-without-meetings) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dishagoel1804/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dishagoel1804/DSA/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dishagoel1804/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Dishagoel1804/DSA/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dishagoel1804/DSA/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Dishagoel1804/DSA/tree/master/3748-sort-matrix-by-diagonals) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-design-an-atm-machine](https://github.com/Dishagoel1804/DSA/tree/master/2352-design-an-atm-machine) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dishagoel1804/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dishagoel1804/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
 |  |
 | ------- |
