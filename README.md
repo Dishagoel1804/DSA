@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dishagoel1804/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2352-design-an-atm-machine](https://github.com/Dishagoel1804/DSA/tree/master/2352-design-an-atm-machine) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Dishagoel1804/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dishagoel1804/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dishagoel1804/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Dishagoel1804/DSA/tree/master/3321-type-of-triangle) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Dishagoel1804/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Dishagoel1804/DSA/tree/master/0792-binary-search) |
 | [1753-path-with-minimum-effort](https://github.com/Dishagoel1804/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dishagoel1804/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dishagoel1804/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dishagoel1804/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dishagoel1804/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dishagoel1804/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dishagoel1804/DSA/tree/master/0455-assign-cookies) |
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
 | [1503-reducing-dishes](https://github.com/Dishagoel1804/DSA/tree/master/1503-reducing-dishes) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dishagoel1804/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dishagoel1804/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Dishagoel1804/DSA/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Dishagoel1804/DSA/tree/master/3430-count-days-without-meetings) |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dishagoel1804/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2352-design-an-atm-machine](https://github.com/Dishagoel1804/DSA/tree/master/2352-design-an-atm-machine) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Dishagoel1804/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dishagoel1804/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dishagoel1804/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
