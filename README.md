@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Dishagoel1804/DSA/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dishagoel1804/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Dishagoel1804/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Dishagoel1804/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dishagoel1804/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2352-design-an-atm-machine](https://github.com/Dishagoel1804/DSA/tree/master/2352-design-an-atm-machine) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Dishagoel1804/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dishagoel1804/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dishagoel1804/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Dishagoel1804/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Dishagoel1804/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dishagoel1804/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Database
 |  |
