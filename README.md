@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dishagoel1804/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Dishagoel1804/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishagoel1804/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dishagoel1804/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Dishagoel1804/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dishagoel1804/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dishagoel1804/DSA/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishagoel1804/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Dishagoel1804/DSA/tree/master/2169-simple-bank-system) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dishagoel1804/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Dishagoel1804/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Dishagoel1804/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dishagoel1804/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
