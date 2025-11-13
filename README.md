@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dishagoel1804/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dishagoel1804/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dishagoel1804/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dishagoel1804/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dishagoel1804/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dishagoel1804/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dishagoel1804/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dishagoel1804/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dishagoel1804/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dishagoel1804/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dishagoel1804/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dishagoel1804/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Dishagoel1804/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Dishagoel1804/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
