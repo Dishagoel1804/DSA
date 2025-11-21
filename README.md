@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Dishagoel1804/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Dishagoel1804/DSA/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dishagoel1804/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Dishagoel1804/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/Dishagoel1804/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Dishagoel1804/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dishagoel1804/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Dishagoel1804/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Dishagoel1804/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Dishagoel1804/DSA/tree/master/0389-find-the-difference) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Dishagoel1804/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dishagoel1804/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dishagoel1804/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search Tree
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Dishagoel1804/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Dishagoel1804/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Dishagoel1804/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Dishagoel1804/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishagoel1804/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dishagoel1804/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Dishagoel1804/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dishagoel1804/DSA/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Dishagoel1804/DSA/tree/master/1833-find-the-highest-altitude) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Dishagoel1804/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/Dishagoel1804/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Dishagoel1804/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Memoization
