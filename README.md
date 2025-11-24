@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Dishagoel1804/DSA/tree/master/0792-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/Dishagoel1804/DSA/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0967-minimum-falling-path-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Dishagoel1804/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/Dishagoel1804/DSA/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dishagoel1804/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Dishagoel1804/DSA/tree/master/1073-number-of-enclaves) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Dishagoel1804/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Dishagoel1804/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Dishagoel1804/DSA/tree/master/0389-find-the-difference) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Dishagoel1804/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Dishagoel1804/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dishagoel1804/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dishagoel1804/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
