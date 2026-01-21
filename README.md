@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Dishagoel1804/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Dishagoel1804/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Dishagoel1804/DSA/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Dishagoel1804/DSA/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Dishagoel1804/DSA/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dishagoel1804/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Dishagoel1804/DSA/tree/master/0733-flood-fill) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Dishagoel1804/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dishagoel1804/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Dishagoel1804/DSA/tree/master/0130-surrounded-regions) |
+| [0498-diagonal-traverse](https://github.com/Dishagoel1804/DSA/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/Dishagoel1804/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Dishagoel1804/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Dishagoel1804/DSA/tree/master/1036-rotting-oranges) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Dishagoel1804/DSA/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/Dishagoel1804/DSA/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishagoel1804/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Dishagoel1804/DSA/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dishagoel1804/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
