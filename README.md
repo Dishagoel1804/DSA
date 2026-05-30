@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/Dishagoel1804/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dishagoel1804/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3161-block-placement-queries](https://github.com/Dishagoel1804/DSA/tree/master/3161-block-placement-queries) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dishagoel1804/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dishagoel1804/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dishagoel1804/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Dishagoel1804/DSA/tree/master/0792-binary-search) |
 | [1753-path-with-minimum-effort](https://github.com/Dishagoel1804/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dishagoel1804/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3161-block-placement-queries](https://github.com/Dishagoel1804/DSA/tree/master/3161-block-placement-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dishagoel1804/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/Dishagoel1804/DSA/tree/master/3161-block-placement-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dishagoel1804/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
@@ -752,4 +755,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dishagoel1804/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/Dishagoel1804/DSA/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
