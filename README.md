@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dishagoel1804/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishagoel1804/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Dishagoel1804/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dishagoel1804/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-simple-bank-system](https://github.com/Dishagoel1804/DSA/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dishagoel1804/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Dishagoel1804/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dishagoel1804/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Dishagoel1804/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dishagoel1804/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dishagoel1804/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Dishagoel1804/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Dishagoel1804/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Database
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dishagoel1804/DSA/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/Dishagoel1804/DSA/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Dishagoel1804/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dishagoel1804/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-simple-bank-system](https://github.com/Dishagoel1804/DSA/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Dishagoel1804/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Dishagoel1804/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
