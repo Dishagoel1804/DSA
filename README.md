@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dishagoel1804/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dishagoel1804/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Dishagoel1804/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Dishagoel1804/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3748-sort-matrix-by-diagonals](https://github.com/Dishagoel1804/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Dishagoel1804/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Dishagoel1804/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Dishagoel1804/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Dishagoel1804/DSA/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Dishagoel1804/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
