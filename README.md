@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Dishagoel1804/DSA/tree/master/3430-count-days-without-meetings) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Dishagoel1804/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dishagoel1804/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dishagoel1804/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dishagoel1804/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Dishagoel1804/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Dishagoel1804/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dishagoel1804/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Dishagoel1804/DSA/tree/master/1450-delete-leaves-with-a-given-value) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dishagoel1804/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dishagoel1804/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Dishagoel1804/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/Dishagoel1804/DSA/tree/master/1753-path-with-minimum-effort) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dishagoel1804/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dishagoel1804/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dishagoel1804/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dishagoel1804/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Dishagoel1804/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dishagoel1804/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dishagoel1804/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Dishagoel1804/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Dishagoel1804/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dishagoel1804/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dishagoel1804/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dishagoel1804/DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -628,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dishagoel1804/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Dishagoel1804/DSA/tree/master/3321-type-of-triangle) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dishagoel1804/DSA/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dishagoel1804/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Dishagoel1804/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Dishagoel1804/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dishagoel1804/DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
