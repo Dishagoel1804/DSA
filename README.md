@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Dishagoel1804/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Dishagoel1804/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Dishagoel1804/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1732-find-the-highest-altitude](https://github.com/Dishagoel1804/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1753-path-with-minimum-effort](https://github.com/Dishagoel1804/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1833-find-the-highest-altitude](https://github.com/Dishagoel1804/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dishagoel1804/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dishagoel1804/DSA/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/Dishagoel1804/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-find-the-highest-altitude](https://github.com/Dishagoel1804/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/Dishagoel1804/DSA/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Dishagoel1804/DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
